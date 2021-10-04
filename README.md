@@ -12,6 +12,10 @@
   - 노션에서 테스트하기 편리함
 - 하나의 activity에 다 정의하기에 너무 많아 특정 로직을 수행하는 class를 새로 만듬
 
+## 스크린샷
+
+<img src="https://user-images.githubusercontent.com/58923717/135853289-a98411e6-0c77-4714-8901-1a79a232e007.jpg" width=300/>
+
 ## 부가설명
 
 - 4.4, 4.x 등 몇몇 webView에서 설정값이 다르지만 너무 옛날 API여서 최소 API를 21로 잡았음.
